@@ -43,10 +43,10 @@ const App = () => {
           </View>
           <View style={styles.body}>
             <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>r04, L31. Step One</Text>
+              <Text style={styles.sectionTitle}>r06, L31</Text>
+              <Text style={styles.sectionDescription}>*.java to *.kt. TypeScript version</Text>
               <Text style={styles.sectionDescription}>
-                Edit <Text style={styles.highlight}>App.tsx</Text> to change this
-                screen and then come back to see your edits.
+                (Note. Swift is not implemented.)
               </Text>
             </View>
             <View style={styles.sectionContainer}>
